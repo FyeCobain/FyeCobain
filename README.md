@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 👋
+## Welcome to my GitHub profile!
 ### I'm Michel, a Mexican software developer 👨‍💻
 ### Hope you can find something useful over here ✨
 ### But if you wanna know a little about me, you can take a look at my [Web Portfolio](https://fyecobain.github.io/) 👈
